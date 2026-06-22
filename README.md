@@ -117,31 +117,9 @@ O(E logV)
 
 ---
 
-## 五、项目结构
-
-```text
-MazeSolver/
-
-├── src/
-│   ├── maze.py
-│   ├── bfs.py
-│   ├── astar.py
-│   └── gui.py
-
-├── docs/
-
-├── tests/
-
-├── README.md
-
-├── requirements.txt
-
-└── LICENSE
-```
-
 ---
 
-## 六、运行环境
+## 五、运行环境
 
 Python 版本：
 
@@ -162,7 +140,7 @@ random
 
 ---
 
-## 七、运行方法
+## 六、运行方法
 
 进入项目目录后执行：
 
@@ -174,7 +152,7 @@ python src/gui.py
 
 ---
 
-## 八、实验结果示例
+## 七、实验结果示例
 
 某次运行结果：
 
@@ -198,7 +176,7 @@ python src/gui.py
 
 ---
 
-## 九、AI 工具使用声明
+## 八、AI 工具使用声明
 
 本项目在开发过程中使用 ChatGPT 辅助完成以下工作：
 
@@ -210,7 +188,7 @@ python src/gui.py
 
 ---
 
-## 十、作者信息
+## 九、作者信息
 
 课程：《数据结构与算法》
 
